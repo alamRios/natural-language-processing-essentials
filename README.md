@@ -15,3 +15,5 @@ Aspect extraction using machine learning unsupervised methods
 
 ## Text summary
 Generating text summaries using 3 methods, all of them with an extractive focus
+
+## References
