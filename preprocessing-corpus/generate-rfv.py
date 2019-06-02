@@ -4,7 +4,7 @@ from nltk import FreqDist
 from _pickle import dump
 import utils
 
-file_path = 'Excelsior_1999\e990101.htm'
+file_path = '..\\corpus\\Excelsior_1999\\e990101.htm'
 print("Reading file...",file_path)
 f = open(file_path,'r')
 t = f.read()
