@@ -2,7 +2,7 @@ from _pickle import load
 import numpy as np
 import functools 
 
-palabra_buscar = "red"
+palabra_buscar = "priísta"
 
 inputt = open('rfv-dict.pkl','rb')
 rfv = load(inputt)
@@ -12,9 +12,9 @@ inputt = open('contexts-dict.pkl','rb')
 contexts = load(inputt)
 inputt.close()
 
-total_docs_n = len(rfv.keys())
+total_docs_n = len(rfv[palabra_buscar])
 docs_number_for_word = []
-vocabulary = rfv.keys()
+vocabulary = contexts[palabra_buscar]
 
 for word in vocabulary:
     docs_number = 0
@@ -42,8 +42,6 @@ for context in contexts.keys():
 	bm25_vectors.append([context,functools.reduce(lambda x,y: x+y, bm25_vector)])
 	if context == palabra_buscar: 
 		bm25t = functools.reduce(lambda x,y: x+y, bm25_vector)
-		print("palabra encontrada")
-		print()
 
 for i in range(len(bm25_vectors)): 
 	bm25_vectors[i][1] = bm25_vectors[i][1] / bm25t
