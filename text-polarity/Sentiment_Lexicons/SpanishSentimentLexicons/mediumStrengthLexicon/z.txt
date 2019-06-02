@@ -1,0 +1,6 @@
+zafio	1881573	neg
+zalameria	3846555	pos
+zorreria	4353829	pos
+zozobra	5593480	neg
+zumbar	1452725	neg
+zygophyllum	9020479	neg

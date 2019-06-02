@@ -1,0 +1,37 @@
+olvidar	411760	neg	neg
+ordenado	2304688	pos	pos
+original	1067073	neg	pos
+ortodoxo	1629554	pos	neg
+objetor	78335	neg
+oblicuidad	3819176	neg
+obscuridad	10075077	neg
+obsequiosidad	5020221	neg
+obsequioso	753147	pos
+obsesion	4403919	neg
+obtenible	184771	pos
+obvia	1560359	pos
+obvio	545700	pos
+oculto	2396532	neg
+ocurrente	1213430	pos
+odiar	1211167	neg
+odiosidad	3752043	neg
+odioso	1530492	neg
+ofender	1224189	neg
+ofendido	1262811	neg
+oficioso	1573951	neg
+oftalmia	10237348	neg
+ojeroso	2314539	neg
+ojo	4348269	pos
+oleina	10818132	neg
+oloroso	1001840	pos
+olvidadizo	1907738	neg
+ondoso	299678	neg
+ondulado	299678	neg
+opinar	695551	neg
+opinion	4564824	neg
+opuesto	944856	neg
+ordinariez	3847963	neg
+originalidad	3766007	neg
+ornitina	10463715	neg
+oscilacion	3745861	neg
+otro	1991315	neg
