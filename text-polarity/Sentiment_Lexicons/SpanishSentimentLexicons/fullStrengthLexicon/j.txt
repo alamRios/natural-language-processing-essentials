@@ -1,8 +1,0 @@
-jactancia	7508996	neg
-jactancioso	1890752	neg
-jaque	9872066	neg
-jaqueton	9872066	neg
-jovial	1367651	pos
-jubilo	7529377	pos
-juicioso	1898722	pos
-justo	2035086	pos

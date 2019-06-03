@@ -11,7 +11,7 @@ Scripts to topic extraction using LDA and text classification using supervised m
 Trying to find polarity (pos or neg) in a given text from two dictionaries
 
 ## Aspect mining
-Aspect extraction using machine learning unsupervised methods
+Aspect extraction and finding polarity of aspects using two dictionaries
 
 ## Text summary
 Generating text summaries using 3 methods, all of them with an extractive focus

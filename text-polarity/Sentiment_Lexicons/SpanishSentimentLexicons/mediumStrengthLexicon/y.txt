@@ -1,3 +1,0 @@
-yeatsiano	2792383	pos
-yerro	42411	neg
-yerto	971010	neg

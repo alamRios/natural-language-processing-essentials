@@ -1,0 +1,49 @@
+rendimiento	4906712	neg	pos
+renovacion	14424517	pos	pos
+renuncia	7207410	neg	neg
+reposo	7515790	pos	neg
+resistente	2038994	pos	pos
+riguroso	711059	neg	neg
+radiante	280463	pos
+rajon	9872066	neg
+rasguno	4693900	neg
+raspadura	4693900	neg
+raudo	1931676	pos
+razonable	1944088	pos
+real	1115349	pos
+realizable	1822563	pos
+rebosante	559690	neg
+recaudo	5615869	pos
+rechazar	685419	neg
+recular	2061069	neg
+redencion	94001	pos
+reganar	824767	neg
+reganina	6712833	neg
+regano	6712833	neg
+regio	1283508	neg
+rehilete	1222859	neg
+rencor	7548978	neg
+repeler	1808769	neg
+reprender	824767	neg
+represalia	1235258	neg
+reprimenda	6712833	neg
+reproche	6713512	neg
+repugnancia	7503987	neg
+repugnante	1625063	neg
+repulsio	7548100	neg
+resistir	2706816	neg
+respetable	2584981	pos
+respiro	7357101	pos
+resuelto	266634	pos
+retrasado	1901186	neg
+retraso	5646218	neg
+revancha	1235258	neg
+reyerta	7184149	neg
+rigido	1023706	neg
+rina	7184149	neg
+risueno	362892	pos
+rocin	10039663	neg
+romper	2668523	neg
+rufian	9879297	neg
+ruido	13977366	neg
+ruin	1133017	neg

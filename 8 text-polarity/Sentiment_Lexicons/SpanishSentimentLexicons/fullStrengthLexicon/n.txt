@@ -1,0 +1,8 @@
+naturalidad	4708113	pos
+nauseabundo	2560035	neg
+nauseoso	2560035	neg
+necesitar	2632567	pos
+negro	1229561	neg
+noble	1283508	neg
+nocivo	1160031	neg
+nombroso	15247	pos

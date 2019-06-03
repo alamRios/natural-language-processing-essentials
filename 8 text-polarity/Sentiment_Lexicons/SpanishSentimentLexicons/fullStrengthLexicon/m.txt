@@ -1,0 +1,64 @@
+magnifico	1111418	pos	pos
+maldicion	10364349	neg	neg
+mancha	4694441	neg	neg
+miseria	13300711	neg	neg
+misterioso	1575424	neg	neg
+macabro	364881	neg
+madurez	4989015	pos
+maestria	5638987	pos
+magnanime	1111418	pos
+magnificencia	5146471	pos
+magulladura	14288871	neg
+magullar	1232098	neg
+majara	2074929	neg
+majareta	2074929	neg
+majestuoso	1283508	neg
+mal	1131043	neg
+malhechor	9977660	neg
+malhumorado	1136248	neg
+malo	1131043	neg
+manazas	63563	neg
+manejo	158185	neg
+mania	7548100	neg
+mantener	896017	pos
+marana	14409489	neg
+maravilla	7289588	pos
+maravilloso	1676517	pos
+masacre	223983	neg
+matamoros	9872066	neg
+matanza	223983	neg
+maton	9879297	neg
+maximo	2343517	pos
+mayor	2343517	pos
+medrar	2342800	pos
+melancolia	7532440	neg
+melancolico	364881	neg
+melon	10039663	neg
+mendrugo	10039663	neg
+menosprecio	7502980	neg
+mentira	6757057	neg
+merecedor	2586206	pos
+merito	5138958	pos
+miedo	7524529	neg
+mierda	14854581	neg
+miramiento	5615869	pos
+miscelaneo	1199083	neg
+miserable	2023430	neg
+misero	2023430	neg
+mixto	1199083	neg
+modesto	2340458	neg
+mohoso	1053915	neg
+molesto	1806106	neg
+monotono	1345307	neg
+monstruo	10109443	neg
+morado	14288871	neg
+morbido	1176246	neg
+morbositat	14070360	neg
+morboso	1176246	neg
+mordacidad	5199680	pos
+mordaz	1802165	neg
+mortal	1611329	neg
+mortandad	223983	neg
+mortifero	1161059	neg
+mortificacion	7507742	neg
+movida	13977366	neg

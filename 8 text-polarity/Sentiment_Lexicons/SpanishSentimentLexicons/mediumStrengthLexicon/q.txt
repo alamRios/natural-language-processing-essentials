@@ -1,0 +1,16 @@
+queja	5332420	neg	neg
+quiebra	10386165	neg	neg
+quebradizo	674840	neg
+quebrar	1078962	neg
+quedo	1508428	neg
+quejarse	614225	neg
+quejica	479718	neg
+quejicoso	479718	neg
+quejido	5332420	neg
+quejumbre	5332420	neg
+quejumbridad	3661636	neg
+quejumbroso	1313142	neg
+quemadura	259182	neg
+quemazon	10281055	neg
+quieto	1508428	neg
+quiquiriqui	5495514	neg

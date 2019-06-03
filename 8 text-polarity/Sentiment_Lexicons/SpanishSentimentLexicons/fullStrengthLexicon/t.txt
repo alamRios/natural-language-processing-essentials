@@ -1,0 +1,27 @@
+tirania	8440630	neg	neg
+toxico	829656	neg	neg
+tacha	4692157	neg
+tarado	2074929	neg
+tarambana	9991530	neg
+tarasca	10594147	neg
+tarugo	10039663	neg
+temerario	9991530	neg
+temible	193799	neg
+tempestuoso	304144	neg
+terco	2326695	neg
+terquedad	4908835	neg
+testarudez	4908835	neg
+timo	754424	neg
+tocado	2074929	neg
+toldo	4887912	neg
+tomate	13977366	neg
+tonto	10667187	neg
+tormentoso	304144	neg
+totalidad	14460565	pos
+traicionero	960094	neg
+transgresor	9977660	neg
+transporte	13987905	pos
+trapisonda	13977366	neg
+trastornar	1783881	neg
+trauma	14285662	neg
+triste	1126841	neg

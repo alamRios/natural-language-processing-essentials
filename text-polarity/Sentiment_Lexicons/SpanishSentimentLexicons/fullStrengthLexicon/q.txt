@@ -1,5 +1,0 @@
-quebradero	5832264	neg
-quebrantar	2668523	neg
-querella	7181935	neg
-querubico	1459949	pos
-quimerico	2498213	pos
