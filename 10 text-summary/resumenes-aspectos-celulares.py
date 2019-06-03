@@ -17,9 +17,9 @@ def text_summarization_gensim(text, summary_ratio=0.5):
         print(sentence)
 
 
-aspects = ['manos libres','bateria','pantalla','precio','color','camara','radio']
+aspects = ['servicio técnico','ropa','precio','marca','lavado']
 #aspects = ['bateria','pantalla','foto','calidad','tiempo']
-files_path = "..\\corpus\\SFU_Spanish_Review_Corpus\\moviles"
+files_path = "..\\corpus\\SFU_Spanish_Review_Corpus\\lavadoras"
 
 def lemmatize_sent(sent):
     return localutils.lemmatize_text(localutils.remove_unalphabetic_words(localutils.remove_stopwords(nltk.word_tokenize(sent))))

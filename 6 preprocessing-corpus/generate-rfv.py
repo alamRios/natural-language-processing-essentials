@@ -4,7 +4,7 @@ from nltk import FreqDist
 from _pickle import dump
 import utils
 
-file_path = '..\\corpus\\Excelsior_1999\\e990101.htm'
+file_path = '..\\corpus\\Excelsior_1999\\e990112.htm'
 print("Reading file...",file_path)
 f = open(file_path,'r')
 t = f.read()
@@ -14,6 +14,8 @@ print("Normalize text...")
 soup = BeautifulSoup(t, 'lxml')
 text = soup.get_text()
 tokens = utils.normalize_text(text, remove_acents=False)
+
+print(' '.join(tokens))
 
 window_s = 8
 contexts = {}

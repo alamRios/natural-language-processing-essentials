@@ -18,6 +18,9 @@ inputt = open('stopwords_list.pkl','rb')
 stopwords = load(inputt)
 inputt.close()
 
+stopwords.append('estar')
+stopwords.append('ser')
+
 def normalize_text(string_text, remove_acents=False):
     tokenized_text = word_tokenize_text(string_text.lower())
     tokenized_text = remove_unalphabetic_words(tokenized_text, remove_acents)

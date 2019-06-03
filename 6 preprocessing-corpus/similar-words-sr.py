@@ -2,7 +2,7 @@ from _pickle import load
 import numpy as np
 import functools 
 
-palabra_buscar = "presupuesto"
+palabra_buscar = "presidente"
 
 inputt = open('rfv-dict.pkl','rb')
 rfv = load(inputt)

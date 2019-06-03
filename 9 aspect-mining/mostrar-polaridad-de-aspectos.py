@@ -21,9 +21,9 @@ import nltk
 import utils
 from _pickle import load
 
-aspects = ['manos libres','bateria','pantalla','precio','color','camara','radio']
+aspects = ['servicio técnico','ropa','precio','marca','lavado']
 #aspects = ['bateria','pantalla','foto','calidad','tiempo']
-files_path = "..\\corpus\\SFU_Spanish_Review_Corpus\\moviles"
+files_path = "..\\corpus\\SFU_Spanish_Review_Corpus\\lavadoras"
 errs = 0
 
 pol_dict = {}
